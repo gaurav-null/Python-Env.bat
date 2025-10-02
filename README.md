@@ -1,7 +1,8 @@
 # Python-Env.bat
 ## Introduction
 
-Hello there! I would like to show u my basic python virtual enviroment creator, where the user is able to paste thier project directory path adn the scipt will create a venv, actiavte it and give a option for the user to open the python project Visual Studio Code or not. If any vurunbality or any issue do contract me on <mailto:gauravrn02@gmail.com>.
+I would like to show you my basic Python virtual environment creator. The user can paste their project directory path, and the script will create a virtual environment, activate it, and give them the option to open the project in Visual Studio Code.
+If you find any vulnerabilities or any issues, please contact me on <mailto:gauravrn02@gmail.com>.
 
  ## Guide
  Easily make ur python projects by:
@@ -11,5 +12,6 @@ Hello there! I would like to show u my basic python virtual enviroment creator, 
 - Now if u want to activate the virtual enviroment and open [VISUAL STUDIO CODE](https://code.visualstudio.com/), press y
 - And if u dont want to press n to exit
 
-# Only works on windows
-linux soon
+# Supported Platform
+⊞ Windows
+🐧 linux soon
