@@ -12,6 +12,6 @@ If you find any vulnerabilities or any issues, please contact me on <mailto:gaur
 - Now if u want to activate the virtual enviroment and open [VISUAL STUDIO CODE](https://code.visualstudio.com/), press y
 - And if u dont want to press n to exit
 
-# Supported Platform
+## Supported Platform
 ⊞ Windows
 🐧 linux soon
