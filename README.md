@@ -14,4 +14,5 @@ If you find any vulnerabilities or any issues, please contact me on <mailto:gaur
 
 ## Supported Platform
 ⊞ Windows
-🐧 linux soon
+
+🐧 linux and 🍎 mac soon
