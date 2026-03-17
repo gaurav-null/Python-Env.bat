@@ -2,7 +2,7 @@
 ## Introduction
 
 I would like to show you my basic Python virtual environment creator. The user can paste their project directory path, and the script will create a virtual environment, activate it, and give them the option to open the project in Visual Studio Code.
-If you find any vulnerabilities or any issues, please contact me on <mailto:gauravrn02@gmail.com>.
+If you find any vulnerabilities or any issues, please create an issue
 
  ## Guide
  Easily make ur python projects by:
